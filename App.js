@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Calisthenics app best of the best</Text>
+      <Text>Calisthenics app best of rest</Text>
       <StatusBar style='auto' />
     </View>
   );
